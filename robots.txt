@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ferragudobiketours.pt/sitemap.xml
